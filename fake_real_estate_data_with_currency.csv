@@ -1,0 +1,101 @@
+id,type,price,location,neighborhood,bedrooms,bathrooms,area_m2,description,currency
+1,Office,1854095,Assiut,6th of October,2,3,452,Modern apartment near metro station,EGP
+2,Apartment,7812888,Mansoura,Maadi,3,1,114,Spacious villa with garden,EGP
+3,Apartment,3355630,Alexandria,Maadi,3,3,293,Office space in business district,EGP
+4,Land,7714422,Cairo,Maadi,3,2,454,Newly renovated flat with balcony,EGP
+5,Land,5678374,Mansoura,Zamalek,1,1,466,Newly renovated flat with balcony,EGP
+6,Villa,9314514,Mansoura,Zamalek,3,2,426,Land plot suitable for building,EGP
+7,Apartment,2410370,Cairo,Maadi,2,3,321,Modern apartment near metro station,EGP
+8,Office,5586543,Mansoura,Zamalek,3,1,239,Office space in business district,EGP
+9,Apartment,7819786,Assiut,6th of October,3,3,457,Modern apartment near metro station,EGP
+10,Office,4793592,Cairo,Heliopolis,5,2,393,Office space in business district,EGP
+11,Villa,1891528,Alexandria,Zamalek,5,2,344,Spacious villa with garden,EGP
+12,Land,6544416,Alexandria,Zamalek,5,2,424,Spacious villa with garden,EGP
+13,Apartment,2486673,Giza,Heliopolis,3,2,298,Modern apartment near metro station,EGP
+14,Villa,5561212,Giza,Heliopolis,2,1,454,Modern apartment near metro station,EGP
+15,Office,8452824,Assiut,Maadi,2,3,139,Land plot suitable for building,EGP
+16,Villa,5326278,Giza,Heliopolis,3,3,324,Newly renovated flat with balcony,EGP
+17,Apartment,8539577,Mansoura,Heliopolis,4,1,85,Office space in business district,EGP
+18,Villa,8456399,Alexandria,Zamalek,2,2,172,Modern apartment near metro station,EGP
+19,Apartment,8979919,Giza,6th of October,5,1,423,Modern apartment near metro station,EGP
+20,Office,6530849,Cairo,Heliopolis,5,3,152,Office space in business district,EGP
+21,Villa,7369905,Alexandria,Nasr City,4,1,370,Land plot suitable for building,EGP
+22,Villa,9426259,Assiut,Heliopolis,2,2,63,Office space in business district,EGP
+23,Office,9827183,Giza,Maadi,2,3,330,Office space in business district,EGP
+24,Land,1476020,Assiut,Nasr City,1,1,118,Spacious villa with garden,EGP
+25,Office,2583507,Mansoura,Zamalek,4,2,96,Land plot suitable for building,EGP
+26,Apartment,6583752,Cairo,Heliopolis,5,2,375,Land plot suitable for building,EGP
+27,Apartment,8750294,Mansoura,Heliopolis,1,3,324,Land plot suitable for building,EGP
+28,Land,9962807,Giza,6th of October,4,2,295,Land plot suitable for building,EGP
+29,Land,9833185,Assiut,Nasr City,1,3,222,Newly renovated flat with balcony,EGP
+30,Apartment,1267702,Assiut,6th of October,4,2,349,Land plot suitable for building,EGP
+31,Land,4978862,Alexandria,Zamalek,1,3,491,Newly renovated flat with balcony,EGP
+32,Apartment,3311976,Alexandria,Maadi,3,3,87,Modern apartment near metro station,EGP
+33,Villa,9800603,Cairo,6th of October,3,3,415,Land plot suitable for building,EGP
+34,Apartment,5215539,Cairo,6th of October,1,2,132,Newly renovated flat with balcony,EGP
+35,Apartment,2030323,Assiut,6th of October,1,2,456,Newly renovated flat with balcony,EGP
+36,Land,1229937,Cairo,Zamalek,2,3,185,Newly renovated flat with balcony,EGP
+37,Apartment,3416738,Giza,6th of October,5,3,62,Modern apartment near metro station,EGP
+38,Office,9485850,Giza,Nasr City,1,2,344,Newly renovated flat with balcony,EGP
+39,Land,1537491,Cairo,6th of October,4,3,181,Newly renovated flat with balcony,EGP
+40,Villa,6844299,Giza,Zamalek,4,3,350,Modern apartment near metro station,EGP
+41,Land,6778639,Mansoura,Heliopolis,1,2,92,Spacious villa with garden,EGP
+42,Land,1219702,Assiut,Zamalek,3,3,186,Spacious villa with garden,EGP
+43,Office,2663728,Cairo,Maadi,1,1,145,Modern apartment near metro station,EGP
+44,Villa,6384841,Alexandria,Maadi,5,3,61,Spacious villa with garden,EGP
+45,Apartment,6604749,Giza,Zamalek,1,3,395,Office space in business district,EGP
+46,Apartment,7855255,Cairo,Zamalek,4,2,408,Spacious villa with garden,EGP
+47,Office,3400030,Mansoura,6th of October,1,1,415,Newly renovated flat with balcony,EGP
+48,Apartment,9106643,Giza,Heliopolis,2,2,163,Modern apartment near metro station,EGP
+49,Office,5011389,Assiut,Zamalek,1,1,340,Office space in business district,EGP
+50,Apartment,8926984,Giza,Maadi,2,2,253,Spacious villa with garden,EGP
+51,Apartment,4522304,Alexandria,Zamalek,5,2,412,Spacious villa with garden,EGP
+52,Apartment,920741,Mansoura,Nasr City,3,1,441,Office space in business district,EGP
+53,Office,3498871,Giza,Zamalek,1,1,224,Modern apartment near metro station,EGP
+54,Office,9623181,Mansoura,6th of October,2,3,244,Newly renovated flat with balcony,EGP
+55,Office,6780958,Mansoura,6th of October,5,1,379,Modern apartment near metro station,EGP
+56,Villa,5712670,Alexandria,Nasr City,3,1,152,Modern apartment near metro station,EGP
+57,Office,7296704,Mansoura,Maadi,5,2,419,Modern apartment near metro station,EGP
+58,Villa,4537148,Assiut,6th of October,2,2,466,Modern apartment near metro station,EGP
+59,Office,7925711,Mansoura,Nasr City,4,2,263,Office space in business district,EGP
+60,Villa,9641388,Assiut,Maadi,5,1,425,Office space in business district,EGP
+61,Office,3787120,Cairo,6th of October,1,1,77,Newly renovated flat with balcony,EGP
+62,Apartment,6520464,Alexandria,Maadi,1,2,171,Land plot suitable for building,EGP
+63,Villa,2968895,Assiut,Zamalek,5,2,62,Land plot suitable for building,EGP
+64,Office,565615,Mansoura,Heliopolis,5,1,326,Office space in business district,EGP
+65,Villa,4316316,Cairo,Zamalek,4,1,431,Land plot suitable for building,EGP
+66,Land,1074956,Giza,Nasr City,3,2,288,Land plot suitable for building,EGP
+67,Office,5173951,Giza,Nasr City,5,2,153,Land plot suitable for building,EGP
+68,Office,6948919,Mansoura,6th of October,3,2,285,Office space in business district,EGP
+69,Villa,8087170,Alexandria,6th of October,4,3,402,Spacious villa with garden,EGP
+70,Apartment,1674292,Mansoura,Maadi,3,1,241,Modern apartment near metro station,EGP
+71,Land,6390437,Cairo,Heliopolis,5,2,428,Modern apartment near metro station,EGP
+72,Apartment,1182110,Cairo,Heliopolis,3,2,314,Modern apartment near metro station,EGP
+73,Villa,6171156,Mansoura,Nasr City,4,3,482,Office space in business district,EGP
+74,Land,871243,Assiut,Heliopolis,5,2,443,Office space in business district,EGP
+75,Villa,8166913,Alexandria,Zamalek,3,2,361,Newly renovated flat with balcony,EGP
+76,Office,2199624,Giza,Heliopolis,5,2,282,Land plot suitable for building,EGP
+77,Apartment,6150144,Cairo,Heliopolis,4,1,154,Modern apartment near metro station,EGP
+78,Villa,637540,Cairo,Maadi,2,1,130,Modern apartment near metro station,EGP
+79,Office,4112774,Cairo,Maadi,5,3,371,Newly renovated flat with balcony,EGP
+80,Villa,6349989,Alexandria,6th of October,4,1,350,Spacious villa with garden,EGP
+81,Villa,3727694,Cairo,Maadi,3,2,359,Office space in business district,EGP
+82,Villa,9303544,Mansoura,Heliopolis,1,3,223,Spacious villa with garden,EGP
+83,Apartment,4298773,Assiut,6th of October,1,3,298,Spacious villa with garden,EGP
+84,Land,5441403,Giza,Zamalek,2,1,141,Newly renovated flat with balcony,EGP
+85,Office,8542703,Cairo,Maadi,4,2,288,Land plot suitable for building,EGP
+86,Office,9499409,Alexandria,Heliopolis,5,3,243,Land plot suitable for building,EGP
+87,Villa,1922785,Mansoura,Heliopolis,3,2,224,Land plot suitable for building,EGP
+88,Office,1632544,Giza,Heliopolis,2,2,63,Office space in business district,EGP
+89,Land,8603707,Giza,Nasr City,4,3,164,Office space in business district,EGP
+90,Office,1634231,Assiut,Heliopolis,2,3,458,Office space in business district,EGP
+91,Office,9772813,Alexandria,Heliopolis,1,2,68,Spacious villa with garden,EGP
+92,Land,4581829,Giza,Heliopolis,1,3,77,Office space in business district,EGP
+93,Land,6094277,Alexandria,Maadi,2,1,170,Land plot suitable for building,EGP
+94,Land,6969058,Alexandria,6th of October,4,3,251,Newly renovated flat with balcony,EGP
+95,Apartment,4533014,Alexandria,Maadi,1,2,88,Spacious villa with garden,EGP
+96,Office,2474991,Cairo,6th of October,2,1,371,Spacious villa with garden,EGP
+97,Land,1622746,Assiut,Heliopolis,3,2,309,Spacious villa with garden,EGP
+98,Office,6696372,Assiut,Zamalek,5,2,392,Spacious villa with garden,EGP
+99,Land,1363176,Giza,Maadi,3,3,100,Office space in business district,EGP
+100,Villa,9354939,Alexandria,Zamalek,5,1,89,Newly renovated flat with balcony,EGP
